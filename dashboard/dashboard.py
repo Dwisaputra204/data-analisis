@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 
 # Membaca dan membersihkan data
-df_hour = pd.read_csv("hour.csv")
+df_hour = pd.read_csv("dashboard/hour.csv")
 
 # Menghapus kolom yang tidak diperlukan
 df_hour.drop(['instant', 'temp', 'atemp', 'hum', 'windspeed'], axis=1, inplace=True)
