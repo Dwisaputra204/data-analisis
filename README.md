@@ -21,4 +21,4 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Penggunaan
-Proyek ini siap dijalankan di komputer lokal Anda! Jika Anda ingin melihat hasilnya langsung, silakan kunjungi: Proyek Data Analyst
+Proyek ini siap dijalankan di komputer lokal Anda! Jika Anda ingin melihat hasilnya langsung, silakan kunjungi: [Proyek Data Analyst](https://proyek-dataanalyst.streamlit.app/)
